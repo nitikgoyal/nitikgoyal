@@ -14,7 +14,7 @@ A programmer and a Machine learning enthusiast
 
 - 🔭 I’m currently working on Machine learning
 - 🌱 I’m currently learning Data structure and algorithms in java
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I start working only when my coffee does!!
 
 ![coffee code](https://user-images.githubusercontent.com/51138087/93663687-87a63100-fa1e-11ea-841c-88dbd3e76d02.gif)
