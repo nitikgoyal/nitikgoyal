@@ -8,7 +8,7 @@ A programmer and a Machine learning enthusiast
 
 
 
-[![Gmail Badge](https://img.shields.io/badge/-mmirthula02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mmirthula02@gmail.com)](mailto:mmirthula02@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-nitikgoyal2712@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nitikgoyal2712@gmail.com)](mailto:nitikgoyal2712@gmail.com)
 
 
 
